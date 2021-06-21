@@ -1,3 +1,8 @@
+# Do not use.
+
+This is here only temporarily. The fwuploader is under refactoring. This repo is only a backup version and will be
+removed in the future. Please use https://github.com/arduino/arduino-fwuploader
+
 # Firmware/Certificates updater for WINC and NINA Wifi module
 
 Use this tool to update the firmware and/or add SSL certificates for any WINC, NINA or SARA module.
